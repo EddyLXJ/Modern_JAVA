@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09ea1aad-2a26-4fb4-8c3f-2c4092f34915" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/HelloWorldRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/HelloWorldRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hello-spring-boot-demo-1.0.0.BUILD-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-spring-boot-demo-1.0.0.BUILD-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hello-spring-boot-demo-1.0.0.BUILD-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello-spring-boot-demo-1.0.0.BUILD-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,12 +56,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/HelloWorldRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="714">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
                 <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -192,12 +189,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558125319113</updated>
-      <workItem from="1558125323988" duration="3973000" />
+      <workItem from="1558125323988" duration="4126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3973000" />
+    <option name="totallyTimeSpent" value="4126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="128" y="-8" width="3714" height="2170" extended-state="6" />
@@ -291,12 +288,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/HelloWorldRestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="714">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#361#362#0" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
           </folding>
         </state>
       </provider>

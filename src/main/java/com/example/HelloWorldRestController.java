@@ -13,5 +13,8 @@ public class HelloWorldRestController {
         return "Hello Spring Boot" + studentName;
     }
 
-
+    @RequestMapping(value = "/hello/{userId}", method = RequestMethod.GET)
+    public String helloUserId(@PathVariable int userId){
+        return "Hello Spring Boot " + userId;
+    }
 }
